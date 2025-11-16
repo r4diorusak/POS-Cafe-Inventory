@@ -203,4 +203,12 @@ Untuk pertanyaan atau bug reports, silakan buka issue atau hubungi tim developme
 
 ---
 
+## 👨‍💻 **KREDIT**
+
+**Developer:** Khairul Adha  
+**Email:** r4dioz.88@gmail.com  
+**Website:** www.rainbowcodec.com
+
+---
+
 **Happy Coding! 🚀**

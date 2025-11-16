@@ -478,3 +478,11 @@ app/
 Untuk pertanyaan atau issues, silakan check dokumentasi atau lihat contoh implementasi di controller dan model yang sudah ada.
 
 Happy coding! 🎉
+
+---
+
+## 👨‍💻 **KREDIT**
+
+**Developer:** Khairul Adha  
+**Email:** r4dioz.88@gmail.com  
+**Website:** www.rainbowcodec.com

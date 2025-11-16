@@ -488,3 +488,7 @@ $users = $db->getRows($sql, [$limit, $offset]);
 ---
 
 **Last Updated:** November 16, 2025
+
+**Developer:** Khairul Adha  
+**Email:** r4dioz.88@gmail.com  
+**Website:** www.rainbowcodec.com

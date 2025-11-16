@@ -361,3 +361,7 @@ app/views/*.php
 **Implementation Status:** ✅ Complete  
 **Testing Status:** ⏳ Pending  
 **Production Ready:** ⚠️ After testing & DB setup
+
+**Developer:** Khairul Adha  
+**Email:** r4dioz.88@gmail.com  
+**Website:** www.rainbowcodec.com
