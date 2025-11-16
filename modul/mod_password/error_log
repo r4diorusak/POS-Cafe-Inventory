@@ -1,0 +1,1 @@
+[06-Aug-2018 07:57:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/iklimsum/public_html/config/koneksi.php on line 8
